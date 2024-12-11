@@ -1,1 +1,1 @@
-# EECS127
+# EECS127 - Optimization Models in Engineering
